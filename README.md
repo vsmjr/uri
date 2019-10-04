@@ -1,2 +1,4 @@
 # Uri
-URI Online Judge respondido em C e Python
+Questões do URI Online Judge resolvidas em C e Python 3 no meu primeiro período da faculdade.
+
+Use as soluções dos problemas depois de realmente tentar resolvê-los.
